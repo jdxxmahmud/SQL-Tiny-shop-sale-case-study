@@ -38,7 +38,7 @@ Dive into our dataset to answer these pivotal questions:
 
 - PostgreSQL was used for the whole process.
 - Queries for data insertion are given inside the **Data Insertion** folder
-- 📂 All queries for this analysis are stored in the **Analysis** folder. Navigate there to get started with the SQL scripts.
+- 📂 All queries for this analysis are stored in the **Analysis** folder. Each query is stored in text files along with the question and corresponding output for clear understanding.
 
 ---
 
